@@ -1,0 +1,49 @@
+.main{
+    height: 600px;
+    width: 800px;
+   color: white;
+   text-align: center;
+   margin: auto;
+   justify-content: center;
+   justify-items: center;
+}
+.space{
+    width: 100%;
+    height: 50px;
+}
+.heading{
+    border: solid black 3px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.lead{
+    font-size: 50px;
+    border: solid red 3px;
+    border-radius: 30px;
+}
+.leads{
+    font-size: 20px;
+}
+#expression{
+    height: 60px;
+    width: 400px;
+    border-radius: 15px;
+    font-size: 40px;
+}
+#convert{
+    height: 50px;
+    width: 200px;
+    border: solid red 2px;
+    border-radius: 9px;
+    font-size: 20px;
+
+}
+#evaluate{
+    font-size: 20px;
+    color: azure;
+}
+#shortresult{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gold;
+}
